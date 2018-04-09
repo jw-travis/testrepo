@@ -1,0 +1,7 @@
+modeline markdown render test
+-----------------------------
+
+* one
+* two
+
+[]( ex: set ft=markdown ts=3 sts=3 et: )
